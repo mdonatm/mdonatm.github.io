@@ -2,7 +2,7 @@
 
 ## Goals
 
-Well, my most immediate short term goal is to attain employment in an IT or cybersecurity related capacity.  I've held many IT certifications and enjoy taking the tests for them.  The next certification I'll attain is the SSCP, and the classes I've taken at CSCC have prepared me for this test.  They have also led me to <p style="color:MediumSeaGreen;">GitHub!</p>
+Well, my most immediate short term goal is to attain employment in an IT or cybersecurity related capacity.  I've held many IT certifications and enjoy taking the tests for them.  The next certification I'll attain is the SSCP, and the classes I've taken at CSCC have prepared me for this test.  They have also led me to [GitHub!]<a href="https://github.com">
 
 [Flowers]<a href="https://stocksnap.io/photo/isolated-flower-PKLOFROVB4">Photo</a> by <a href="https://stocksnap.io/author/travelphotographer">Travel Photographer</a> on <a href="https://stocksnap.io">StockSnap</a>
 
