@@ -4,7 +4,7 @@
 
 Well, my most immediate short term goal is to attain employment in an IT or cybersecurity related capacity.  I've held many IT certifications and enjoy taking the tests for them.  The next certification I'll attain is the SSCP, and the classes I've taken at CSCC have prepared me for this test.  They have also led me to <a href="https://github.com">GitHub!</a>.  My graduation from the Cybersecurity Certificate program is on the 6/27/2023 at 6pm, and if you want to view the ceremony, click on the following zoom link! <a href="https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcscc-edu.zoom.us%2Fj%2F96770613695%3Fpwd%3DSFFoWjh4RytGS1QrdytIYUJPVU0xdz09&data=05%7C01%7Clmerante%40cscc.edu%7Cafe0c71a32984bb4037008db669e978f%7C60a9d377c82741a1bbf01aad34db4c89%7C0%7C0%7C638216603562798992%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KB%2FkOLHnr4sDq4FK8FGOB3pKHFUgg68eQt2Z0xLREFw%3D&reserved=0">Graduation!</a>
 
-## Michael Donat
+Michael Donat
 
 [Flowers]<a href="https://stocksnap.io/photo/isolated-flower-PKLOFROVB4">Photo</a> by <a href="https://stocksnap.io/author/travelphotographer">Travel Photographer</a> on <a href="https://stocksnap.io">StockSnap</a>
 
