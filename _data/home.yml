@@ -8,6 +8,9 @@ navbar_entries:
   - title: GitHub
     url: https://github.com/
 
+  - title: Ohio State University
+    url: https://osu.edu/
+
 project_entries:
   - title: Template 1
     url: template-1-post
