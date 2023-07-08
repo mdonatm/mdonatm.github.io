@@ -1,4 +1,6 @@
-# Hello World!
+# Resume
+
+
 
 ## Goals
 
@@ -6,7 +8,7 @@ Well, my most immediate short term goal is to attain employment in an IT or cybe
 
 ## Michael Donat
 
-[Flowers]<a href="https://stocksnap.io/photo/isolated-flower-PKLOFROVB4">Photo</a> by <a href="https://stocksnap.io/author/travelphotographer">Travel Photographer</a> on <a href="https://stocksnap.io">StockSnap</a>
+<a href="https://stocksnap.io/photo/isolated-flower-PKLOFROVB4">[Flowers]</a> by <a href="https://stocksnap.io/author/travelphotographer">Travel Photographer</a> on <a href="https://stocksnap.io">StockSnap</a>
 
 <iframe id="kaltura_player"
 src="https://cdnapisec.kaltura.com/p/389581/sp/38958100/embedIframeJs/uiconf_id/35252361/partner_id/3895
